@@ -1,7 +1,7 @@
 import json
 
 # Charger la mémoire depuis le fichier JSON
-with open("memoire_disobey.json", "r", encoding="utf-8") as f:
+with open("data/memoire_disobey.json", "r", encoding="utf-8") as f:
     memoire = json.load(f)
 
 # Afficher les sections pour vérification
