@@ -49,10 +49,9 @@
   },
   "équipe": [
     { "nom": "Yannick", "rôle": "CEO", "surnom": "Gardien du Temple" },
-    { "nom": "Arthur Perrigot", "rôle": "Stagiaire IA & créateur de Marius" },
-    { "nom": "Darius", "rôle": "Stagiaire IA", "note": "Binôme moteur du projet IA" },
+    { "nom": "Arthur Perrigot", "rôle": "Chargé d'étude IA & créateur de Marius" },
+    { "nom": "Darius", "rôle": "Chargé d'étude IA", "note": "Binôme moteur du projet IA" },
     { "nom": "Alexandra", "rôle": "Directrice du Pôle Contenus" },
-    { "nom": "François (1)", "rôle": "Directeur de Création" },
     { "nom": "François (2)", "rôle": "Webdesigner" },
     { "nom": "Juliette", "rôle": "Content & Social Ads Manager" },
     { "nom": "Damien", "rôle": "Chef de projet" },
