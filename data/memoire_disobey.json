@@ -52,7 +52,7 @@
     { "nom": "Arthur Perrigot", "rôle": "Chargé d'étude IA & créateur de Marius" },
     { "nom": "Darius", "rôle": "Chargé d'étude IA", "note": "Binôme moteur du projet IA" },
     { "nom": "Alexandra", "rôle": "Directrice du Pôle Contenus" },
-    { "nom": "François (2)", "rôle": "Webdesigner" },
+    { "nom": "François", "rôle": "Webdesigner" },
     { "nom": "Juliette", "rôle": "Content & Social Ads Manager" },
     { "nom": "Damien", "rôle": "Chef de projet" },
     { "nom": "Camille", "rôle": "Cheffe de projet & Content Manager" },
@@ -157,7 +157,7 @@
       "compétences": [
         "cadrage, rythme, contraste, culture graphique, capacité à pitcher"
       ],
-      "posture": "Zéro banalité, sens, élégance, audace, émotion visuelle",
+      "posture": "Zéro banalité, avec du sens, de l'élégance, de l'audace, de l'émotion visuelle",
       "livrables_types": [
         "moodboards",
         "concepts visuels avec storytelling",
@@ -325,7 +325,7 @@
         "onboarding pack",
         "format réunion hebdo",
         "fiche de délégation"
-      ],
+      ]
     },
   ],
   "limites_et_garde_fous": {
